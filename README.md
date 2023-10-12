@@ -16,7 +16,7 @@
 
 ### Links
 
-- Live Site URL: [Live Site](https://gregarious-pudding-4c759b.netlify.app/)
+- Live Site URL: [https://github-user-search-jbdev.netlify.app/]
 
 ## My process
 
